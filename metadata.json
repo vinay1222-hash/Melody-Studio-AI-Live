@@ -1,0 +1,6 @@
+{
+  "name": "Melody AI Pro",
+  "description": "An interactive performance history and AI-driven member reconciliation platform for song events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
